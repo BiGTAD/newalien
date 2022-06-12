@@ -2,7 +2,7 @@
   "Version_update": "1.0",
   "Link_zip": "https://github.com/BiGTAD/alien/blob/main/02-06-65.zip?raw=true",
   "Password": "boxing88",
-  "Message": "Arthur VPN
+  "Message": "StellaVPN
 📢 Update 02/06/65
 - ลบเซิฟเวอร์ที่ใช้งานไม่ได้
 - เพิ่มเซิฟเวอร์ SG DO 4 เซิฟเวอร์
