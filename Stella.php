@@ -1,6 +1,6 @@
 {
-  "Version_update": "1.12",
-  "Link_zip": "https://github.com/BiGTAD/newalien/blob/main/stl18-06-65.zip?raw=true",
+  "Version_update": "1.13",
+  "Link_zip": "https://github.com/BiGTAD/newalien/blob/main/stl22-06-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
 📢 Update 22/06/65
