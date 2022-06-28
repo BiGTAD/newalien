@@ -1,10 +1,10 @@
 {
-  "Version_update": "1.3",
-  "Link_zip": "https://github.com/BiGTAD/newalien/blob/main/stl25-06-65.zip?raw=true",
+  "Version_update": "1.4",
+  "Link_zip": "https://github.com/BiGTAD/newalien/blob/main/stl29-06-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
-📢 Update 25/06/65
-- แก้ไขเซิฟเวอร์ SG
+📢 Update 29/06/65
+- แก้ไขเซิฟเวอร์ SG 2-4
 
 🚫 อ่านละเอียดก่อนใช้งาน
 - SG DO 11 เซิฟเวอร์ สำหรับทั่วไป
