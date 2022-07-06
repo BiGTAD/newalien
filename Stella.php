@@ -1,11 +1,11 @@
 {
-  "Version_update": "1.6",
-  "Link_zip": "https://github.com/BiGTAD/newalien/blob/main/stl07-07-65.zip?raw=true",
+  "Version_update": "1.7",
+  "Link_zip": "https://github.com/BiGTAD/newalien/blob/main/stl08-07-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
 📢 Update 07/07/65
 - เพิ่ม TH NORD 4 เซิฟเวอร์
-- เพิ่มUS FREE 2 เซิฟเวอร์
+- เพิ่ม US FREE 2 เซิฟเวอร์
 
 🚫 อ่านละเอียดก่อนใช้งาน
 - SG DO 11 เซิฟเวอร์ สำหรับทั่วไป
