@@ -1,5 +1,5 @@
 {
-  "Version_update": "2.6",
+  "Version_update": "2.5",
   "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl08-08-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
