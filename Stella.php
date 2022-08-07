@@ -1,10 +1,10 @@
 {
-  "Version_update": "2.5",
+  "Version_update": "2.6",
   "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl08-08-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
 📢 Update 08/08/65
-- แก้ TH IDC 2 
+- แก้ TH IDC 2
 
 🚫 อ่านละเอียดก่อนใช้งาน
 - SG OVH 1 เซิฟเวอร์ สำหรับทั่วไป
