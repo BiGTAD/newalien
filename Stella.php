@@ -1,12 +1,13 @@
 {
-  "Version_update": "2.5",
-  "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl08-08-65.zip?raw=true",
+  "Version_update": "2.6",
+  "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl10-08-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
-📢 Update 08/08/65
-- แก้ TH IDC 2
+📢 Update 10/08/65
+- เพิ่ม SG DO 3 เซิฟเวอร์
 
 🚫 อ่านละเอียดก่อนใช้งาน
+- SG DO 3 เซิฟเวอร์ สำหรับทั่วไป
 - SG OVH 1 เซิฟเวอร์ สำหรับทั่วไป
 - TH IDC 4 เซิฟเวอร์ แนะนำสายเกม
 
