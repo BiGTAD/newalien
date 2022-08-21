@@ -1,12 +1,10 @@
 {
-  "Version_update": "2.7",
-  "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl20-08-65.zip?raw=true",
+  "Version_update": "2.8",
+  "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl21-08-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "StellaVPN
-📢 Update 20/08/65
-- เพิ่ม HK CSL 2 เซิฟเวอร์
-- ลบ SG DO ทั้งหมด
-- ลบ SG OVH ทั้งหมด
+📢 Update 21/08/65
+- แก้ไข HK CSL 2 เซิฟเวอร์
 
 🚫 อ่านละเอียดก่อนใช้งาน
 - HK CSL 2 เซิฟเวอร์ ใช้งานทั่วไป
