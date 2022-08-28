@@ -1,8 +1,8 @@
 {
-  "Version_update": "2.9",
+  "Version_update": "3.0",
   "Link_zip": "https://github.com/Supabig/newalien/blob/main/stl24-08-65.zip?raw=true",
   "Password": "boxing88",
-  "Message": "StellaVPN
+  "Message": "คลิกโฆษณาเพื่อสนับสนุนเซิฟเวอร์
 📢 Update 24/08/65
 - เพิ่ม TH CSL 2 เซิฟเวอร์
 - ลบ HK CSL
