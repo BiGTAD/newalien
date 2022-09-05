@@ -1,5 +1,5 @@
 {
-  "Version_update": "3.1",
+  "Version_update": "3.2",
   "Link_zip": "https://github.com/IRONBIG7/newalien/blob/main/stl05-09-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "คลิกโฆษณาเพื่อสนับสนุนเซิฟเวอร์
