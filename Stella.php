@@ -1,7 +1,7 @@
 {
   "Version_update": "3.2",
-  "Link_zip": "https://github.com/IRONBIG7/newalien/blob/main/stl05-09-65.zip?raw=true",
-  "Password": "boxing88",
+  "Link_zip": "",
+  "Password": "",
   "Message": "คลิกโฆษณาเพื่อสนับสนุนเซิฟเวอร์
 📢 Update 05/09/65
 - แก้ไข TH CSL 2 เซิฟเวอร์
